@@ -4,7 +4,7 @@ This code contains fortran code used to calibration of monthly water balance mod
 
 Most monthly water balance models have the concept of a water tank model. Three monthly water balance models are selected for the Soil moisture storage capacity (SMSC) parameter, i.e., Dynamic Water Balance Model (DWBM), Snowbelt-based Water Balance Model (SWBM), and Time-variant Gain Model (TVGM).
 
-Major code contributor: Kang Xie (PhD Student, Wuhan University) and Shuanghong Shen (PhD Student, University of Science and Technology of China)
+Major code contributor: Kang Xie (PhD Student, Wuhan University), Liting Zhou (PhD Student, Wuhan University) and Shujie Cheng (PhD Student, Wuhan University)
 
 
 Abstract
